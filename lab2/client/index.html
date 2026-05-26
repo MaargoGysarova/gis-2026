@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lab 2 - GeoServer WMS</title>
+  </head>
+  <body>
+    <main>
+      <aside class="layer-panel">
+        <h1>ЛР2: GeoServer WMS</h1>
+        <p class="area-name">Усть-Кинельский, СНТ Автохозяйства</p>
+        <div class="layer-list" aria-label="Слои GeoServer">
+          <label><input id="buildings-toggle" type="checkbox" checked /> Здания</label>
+          <label><input id="landuse-toggle" type="checkbox" checked /> Территории и объекты</label>
+          <label><input id="pois-toggle" type="checkbox" checked /> POI</label>
+        </div>
+        <p class="connection">WMS: <span>http://localhost:8080/geoserver/gis/wms</span></p>
+      </aside>
+      <div id="map"></div>
+    </main>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

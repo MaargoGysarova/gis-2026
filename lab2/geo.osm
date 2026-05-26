@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (1313 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.2816160" minlon="50.6615420" maxlat="53.2837250" maxlon="50.6641500"/>
+ <node id="12538676763" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2816725" lon="50.6626130"/>
+ <node id="12538676764" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2832426" lon="50.6618485"/>
+ <node id="12538676765" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2833314" lon="50.6619406"/>
+ <node id="12538676766" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2834669" lon="50.6619759"/>
+ <node id="12538676767" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2836192" lon="50.6620538"/>
+ <node id="12538676768" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2834372" lon="50.6624077"/>
+ <node id="12538676769" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2832849" lon="50.6625635"/>
+ <node id="12538676775" visible="true" version="1" changeset="161847555" timestamp="2025-01-28T08:22:33Z" user="maxlax" uid="15972813" lat="53.2818037" lon="50.6633845"/>
+ <node id="13702345287" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2833215" lon="50.6620010"/>
+ <node id="13702345288" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2831666" lon="50.6620663"/>
+ <node id="13702345289" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2832477" lon="50.6624818"/>
+ <node id="13702345290" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2833872" lon="50.6623799"/>
+ <node id="13702345291" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2831170" lon="50.6623043"/>
+ <node id="13702345292" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2831654" lon="50.6625301"/>
+ <node id="13702345293" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830646" lon="50.6625892"/>
+ <node id="13702345294" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830204" lon="50.6623503"/>
+ <node id="13702345295" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830673" lon="50.6623224"/>
+ <node id="13702345297" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830429" lon="50.6624715"/>
+ <node id="13702345298" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829898" lon="50.6624971"/>
+ <node id="13702345299" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829643" lon="50.6623789"/>
+ <node id="13702345300" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828972" lon="50.6626875"/>
+ <node id="13702347801" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827882" lon="50.6627425"/>
+ <node id="13702347802" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827416" lon="50.6624895"/>
+ <node id="13702347803" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828508" lon="50.6624278"/>
+ <node id="13702347804" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828131" lon="50.6622716"/>
+ <node id="13702347805" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827590" lon="50.6622926"/>
+ <node id="13702347806" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827364" lon="50.6621789"/>
+ <node id="13702347807" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827606" lon="50.6621666"/>
+ <node id="13702347808" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827941" lon="50.6621560"/>
+ <node id="13702347809" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827264" lon="50.6625424"/>
+ <node id="13702347810" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827398" lon="50.6626223"/>
+ <node id="13702347811" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2826836" lon="50.6626604"/>
+ <node id="13702347812" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2826647" lon="50.6625825"/>
+ <node id="13702347813" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830170" lon="50.6622155"/>
+ <node id="13702347814" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829968" lon="50.6622246"/>
+ <node id="13702347815" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830031" lon="50.6622640"/>
+ <node id="13702347816" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830233" lon="50.6622548"/>
+ <node id="13702347817" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2831083" lon="50.6627451"/>
+ <node id="13702347818" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2831225" lon="50.6628820"/>
+ <node id="13702347819" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830896" lon="50.6628920"/>
+ <node id="13702347820" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830596" lon="50.6629017"/>
+ <node id="13702347821" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830480" lon="50.6627710"/>
+ <node id="13702347822" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2830733" lon="50.6627590"/>
+ <node id="13702347823" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829844" lon="50.6627672"/>
+ <node id="13702347824" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829985" lon="50.6628551"/>
+ <node id="13702347825" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829712" lon="50.6628689"/>
+ <node id="13702347826" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829306" lon="50.6628759"/>
+ <node id="13702347827" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829230" lon="50.6627860"/>
+ <node id="13702347828" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2829519" lon="50.6627771"/>
+ <node id="13702347829" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828441" lon="50.6628028"/>
+ <node id="13702347830" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828603" lon="50.6629402"/>
+ <node id="13702347831" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828672" lon="50.6630032"/>
+ <node id="13702347832" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828119" lon="50.6630201"/>
+ <node id="13702347833" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827726" lon="50.6629717"/>
+ <node id="13702347834" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2827589" lon="50.6628550"/>
+ <node id="13702347835" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2828042" lon="50.6628299"/>
+ <node id="13821089644" visible="true" version="1" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2826155" lon="50.6626200"/>
+ <node id="13821089645" visible="true" version="1" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2826368" lon="50.6627470"/>
+ <node id="13821089646" visible="true" version="1" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2825803" lon="50.6627872"/>
+ <node id="13821089647" visible="true" version="1" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2825531" lon="50.6626576"/>
+ <node id="13821089648" visible="true" version="1" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2825858" lon="50.6626398"/>
+ <node id="13821089649" visible="true" version="1" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2824993" lon="50.6626912"/>
+ <node id="13821089650" visible="true" version="1" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2825184" lon="50.6628396"/>
+ <node id="13821089651" visible="true" version="1" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2824589" lon="50.6628620"/>
+ <node id="13821089652" visible="true" version="1" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123" lat="53.2824368" lon="50.6627221"/>
+ <way id="1354876394" visible="true" version="3" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="12538676769"/>
+  <nd ref="13702347829"/>
+  <nd ref="13702347835"/>
+  <nd ref="13702347834"/>
+  <nd ref="12538676775"/>
+  <nd ref="12538676763"/>
+  <nd ref="12538676764"/>
+  <nd ref="12538676765"/>
+  <nd ref="12538676766"/>
+  <nd ref="12538676767"/>
+  <nd ref="12538676768"/>
+  <nd ref="12538676769"/>
+  <tag k="landuse" v="allotments"/>
+  <tag k="name" v="СНТ Автохозяйства"/>
+ </way>
+ <way id="1495700907" visible="true" version="4" changeset="182554078" timestamp="2026-05-12T12:54:15Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702345287"/>
+  <nd ref="13702345288"/>
+  <nd ref="13702345289"/>
+  <nd ref="13702345290"/>
+  <nd ref="13702345287"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="house"/>
+ </way>
+ <way id="1495700908" visible="true" version="4" changeset="182554078" timestamp="2026-05-12T12:54:15Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702345291"/>
+  <nd ref="13702345292"/>
+  <nd ref="13702345293"/>
+  <nd ref="13702345297"/>
+  <nd ref="13702345294"/>
+  <nd ref="13702345295"/>
+  <nd ref="13702345291"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="height" v="5"/>
+ </way>
+ <way id="1495700909" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702345294"/>
+  <nd ref="13702345297"/>
+  <nd ref="13702345298"/>
+  <nd ref="13702345299"/>
+  <nd ref="13702345294"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="garage"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="3"/>
+ </way>
+ <way id="1495700910" visible="true" version="4" changeset="182554078" timestamp="2026-05-12T12:54:15Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702345300"/>
+  <nd ref="13702347801"/>
+  <nd ref="13702347802"/>
+  <nd ref="13702347803"/>
+  <nd ref="13702345300"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="height" v="5"/>
+ </way>
+ <way id="1495700911" visible="true" version="1" changeset="180784638" timestamp="2026-04-02T19:38:58Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702347804"/>
+  <nd ref="13702347805"/>
+  <nd ref="13702347806"/>
+  <nd ref="13702347807"/>
+  <nd ref="13702347808"/>
+  <nd ref="13702347804"/>
+  <tag k="leisure" v="sauna"/>
+ </way>
+ <way id="1495700912" visible="true" version="4" changeset="182554078" timestamp="2026-05-12T12:54:15Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702347809"/>
+  <nd ref="13702347810"/>
+  <nd ref="13702347811"/>
+  <nd ref="13702347812"/>
+  <nd ref="13702347809"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="3"/>
+ </way>
+ <way id="1495700913" visible="true" version="2" changeset="182552741" timestamp="2026-05-12T12:28:08Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702347813"/>
+  <nd ref="13702347814"/>
+  <nd ref="13702347815"/>
+  <nd ref="13702347816"/>
+  <nd ref="13702347813"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="amenity" v="shelter"/>
+  <tag k="bench" v="yes"/>
+  <tag k="building" v="yes"/>
+  <tag k="lit" v="yes"/>
+  <tag k="shelter_type" v="gazebo"/>
+ </way>
+ <way id="1495700914" visible="true" version="5" changeset="182554078" timestamp="2026-05-12T12:54:15Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702347817"/>
+  <nd ref="13702347818"/>
+  <nd ref="13702347819"/>
+  <nd ref="13702347820"/>
+  <nd ref="13702347821"/>
+  <nd ref="13702347822"/>
+  <nd ref="13702347817"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="height" v="5"/>
+ </way>
+ <way id="1495700915" visible="true" version="5" changeset="182554078" timestamp="2026-05-12T12:54:15Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702347823"/>
+  <nd ref="13702347824"/>
+  <nd ref="13702347825"/>
+  <nd ref="13702347826"/>
+  <nd ref="13702347827"/>
+  <nd ref="13702347828"/>
+  <nd ref="13702347823"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="3"/>
+ </way>
+ <way id="1495700916" visible="true" version="5" changeset="182554078" timestamp="2026-05-12T12:54:15Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13702347829"/>
+  <nd ref="13702347830"/>
+  <nd ref="13702347831"/>
+  <nd ref="13702347832"/>
+  <nd ref="13702347833"/>
+  <nd ref="13702347834"/>
+  <nd ref="13702347835"/>
+  <nd ref="13702347829"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="height" v="7"/>
+ </way>
+ <way id="1512542653" visible="true" version="3" changeset="182554078" timestamp="2026-05-12T12:54:15Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13821089644"/>
+  <nd ref="13821089645"/>
+  <nd ref="13821089646"/>
+  <nd ref="13821089647"/>
+  <nd ref="13821089648"/>
+  <nd ref="13821089644"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="5"/>
+ </way>
+ <way id="1512542654" visible="true" version="3" changeset="182554078" timestamp="2026-05-12T12:54:15Z" user="MargoGus19SAMARA" uid="23984123">
+  <nd ref="13821089649"/>
+  <nd ref="13821089650"/>
+  <nd ref="13821089651"/>
+  <nd ref="13821089652"/>
+  <nd ref="13821089649"/>
+  <tag k="addr:city" v="Усть-Кинельский"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:place" v="СНТ Автохозяйства"/>
+  <tag k="addr:street" v="7-я линия"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="height" v="5"/>
+ </way>
+</osm>
