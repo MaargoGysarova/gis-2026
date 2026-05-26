@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lab 3 - Overture Buildings</title>
+  </head>
+  <body>
+    <main>
+      <div id="app">
+        <aside class="layer-panel">
+          <h1>ЛР3: Overture Buildings</h1>
+          <p class="area-name">Усть-Кинельский, СНТ Автохозяйства</p>
+          <div class="layer-list" aria-label="Слои карты">
+            <label><input id="overture-toggle" type="checkbox" checked /> Overture Buildings</label>
+            <label><input id="my-buildings-toggle" type="checkbox" checked /> Lab1 здания</label>
+          </div>
+          <dl class="legend">
+            <div><dt class="swatch my"></dt><dd>my</dd></div>
+            <div><dt class="swatch osm"></dt><dd>osm</dd></div>
+            <div><dt class="swatch ml"></dt><dd>ml</dd></div>
+          </dl>
+          <p class="connection">GeoJSON + Mapbox Style</p>
+        </aside>
+        <div id="map"></div>
+      </div>
+    </main>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

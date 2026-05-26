@@ -1,0 +1,16 @@
+{
+  "name": "margarita-gis-lab3-client",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "ol": "^10.5.0",
+    "ol-mapbox-style": "^12.4.0",
+    "vite": "^6.4.2"
+  }
+}
