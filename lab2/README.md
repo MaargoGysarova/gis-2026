@@ -16,7 +16,8 @@ docker compose up -d
 
 GeoServer: `http://localhost:8080/geoserver`, логин `admin`, пароль `geoserver`.
 
-В GeoServer нужно создать workspace `gis`, store PostGIS с подключением к контейнеру `postgis`, затем опубликовать таблицы `buildings`, `landuse_areas`, `pois`.
+GeoServer уже настроен через volume `./geoserver_data:/opt/geoserver/data_dir`.
+После запуска контейнеров в workspace `gis` доступны слои `buildings`, `landuse_areas`, `pois`.
 
 Клиент:
 
