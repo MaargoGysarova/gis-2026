@@ -11,7 +11,7 @@ SELECT
     building,
     "building:levels" AS building_levels,
     height,
-    geom
+    ST_SetCRS(geom, '4326') AS geom
 FROM ST_Read('lab1/buildings.geojson')
 WHERE building IS NOT NULL;
 
@@ -52,7 +52,7 @@ SELECT
     level,
     names.primary AS name,
     sources,
-    geometry AS geom
+    ST_SetCRS(geometry, '4326') AS geom
 FROM read_parquet(
     getvariable('overture_files'),
     filename = true,
@@ -75,7 +75,7 @@ SELECT
         WHEN EXISTS (
             SELECT 1
             FROM my_buildings m
-            WHERE ST_Intersects(o.geom, m.geom)
+            WHERE ST_Intersects(ST_SetCRS(o.geom, '4326'), ST_SetCRS(m.geom, '4326'))
         ) THEN 'my'
         WHEN EXISTS (
             SELECT 1
